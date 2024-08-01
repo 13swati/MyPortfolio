@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.571787d4.css",
+    "main.js": "/static/js/main.f0d449df.js",
+    "static/media/GW-background.jpg": "/static/media/GW-background.551f4643ac7c0cc016c9.jpg",
+    "static/media/Swati_Pic.png.jpg": "/static/media/Swati_Pic.png.89c7591c111187a0801b.jpg",
+    "index.html": "/index.html",
+    "main.571787d4.css.map": "/static/css/main.571787d4.css.map",
+    "main.f0d449df.js.map": "/static/js/main.f0d449df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.571787d4.css",
+    "static/js/main.f0d449df.js"
+  ]
+}
